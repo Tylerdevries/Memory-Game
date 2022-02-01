@@ -47,7 +47,8 @@ section {
 
 @media (max-width: 600px) {
     section{
-        grid-template-columns: repeat(2, 8rem)
+        grid-template-columns: repeat(2, 8rem);
+        grid-template-rows: repeat(8, 8rem);
        }
     
 }
