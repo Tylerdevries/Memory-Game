@@ -50,13 +50,15 @@ I confirmed that all elements are working, ie. Navbar, buttons and Email Form.
 
 - HTML
 
-No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-maths%2F)
+No errors were returned when passing through the official W3C Validator.
+
 - CSS
 
-No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-maths%252F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+No errors were found when passing through the official Jigsaw Validator.
+
 - JavaScript
 
-No errors were found when passing through the official [Jshint validator](https://jshint.com/)
+No errors were found when passing through the official Jshint Validator.
 
 The validator returned the following:
 
@@ -67,3 +69,28 @@ Function with the largest signature take 2 arguments, while the median is 0.5.
 Largest function has 17 statements in it, while the median is 2.
 
 The most complex function has a cyclomatic complexity value of 5 while the median is 1.
+
+## Unfixed Bugs
+
+There are no unfixed bugs in the finished project. 
+
+## Deployment
+
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+## Credits
+
+I used the following sites as sources for images, CSS, HTML and Javascript components.
+
+api.deezer.com:
+  - I used Deezers API to find high quality renders of the album covers used.
+
+
+cssgradient.io:
+  - I used this site to create the gradient used on the background of the site. 
+
+
+
