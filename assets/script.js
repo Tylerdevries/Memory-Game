@@ -7,22 +7,22 @@ playerLivesCount.textContent = playerLives;
 
 // Generate the cards (array)
 const getData = () => [
-    { imgSrc: "./images/audioslave.jpeg", name: "audioslave" },
-    { imgSrc: "./images/kids-see-ghosts.jpeg", name: "kids see ghosts" },
-    { imgSrc: "./images/limp-bizkit.jpeg", name: "limp bizkit" },
-    { imgSrc: "./images/outkast.jpeg", name: "outkast" },
-    { imgSrc: "./images/rage.jpeg", name: "rage against the machine" },
-    { imgSrc: "./images/the-cure.jpeg", name: "the cure" },
-    { imgSrc: "./images/wu-tang.jpeg", name: "wu tang" },
-    { imgSrc: "./images/linkin-park.jpeg", name: "linkin park" },
-    { imgSrc: "./images/audioslave.jpeg", name: "audioslave" },
-    { imgSrc: "./images/kids-see-ghosts.jpeg", name: "kids see ghosts" },
-    { imgSrc: "./images/limp-bizkit.jpeg", name: "limp bizkit" },
-    { imgSrc: "./images/outkast.jpeg", name: "outkast" },
-    { imgSrc: "./images/rage.jpeg", name: "rage against the machine" },
-    { imgSrc: "./images/the-cure.jpeg", name: "the cure" },
-    { imgSrc: "./images/wu-tang.jpeg", name: "wu tang" },
-    { imgSrc: "./images/linkin-park.jpeg", name: "linkin park" },
+    { imgSrc: "assets/images/audioslave.jpeg", name: "audioslave" },
+    { imgSrc: "assets/images/kids-see-ghosts.jpeg", name: "kids see ghosts" },
+    { imgSrc: "assets/images/limp-bizkit.jpeg", name: "limp bizkit" },
+    { imgSrc: "assets/images/outkast.jpeg", name: "outkast" },
+    { imgSrc: "assets/images/rage.jpeg", name: "rage against the machine" },
+    { imgSrc: "assets/images/the-cure.jpeg", name: "the cure" },
+    { imgSrc: "assets/images/wu-tang.jpeg", name: "wu tang" },
+    { imgSrc: "assets/images/linkin-park.jpeg", name: "linkin park" },
+    { imgSrc: "assets/images/audioslave.jpeg", name: "audioslave" },
+    { imgSrc: "assets/images/kids-see-ghosts.jpeg", name: "kids see ghosts" },
+    { imgSrc: "assets/images/limp-bizkit.jpeg", name: "limp bizkit" },
+    { imgSrc: "assets/images/outkast.jpeg", name: "outkast" },
+    { imgSrc: "assets/images/rage.jpeg", name: "rage against the machine" },
+    { imgSrc: "assets/images/the-cure.jpeg", name: "the cure" },
+    { imgSrc: "assets/images/wu-tang.jpeg", name: "wu tang" },
+    { imgSrc: "assets/images/linkin-park.jpeg", name: "linkin park" },
     
 ];
 
