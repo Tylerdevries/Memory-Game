@@ -1,6 +1,6 @@
 # Memory Game
 
-The Memo![responsive](https://user-images.githubusercontent.com/93283135/152126688-4e10808b-85fd-498d-911a-ac7c6de5d88b.PNG)
+![responsive](https://user-images.githubusercontent.com/93283135/152126688-4e10808b-85fd-498d-911a-ac7c6de5d88b.PNG)
 
 The Memory Game website is a simple and sleek website that hosts a game playable within the browser.
 
