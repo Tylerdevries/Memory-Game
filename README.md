@@ -1,4 +1,7 @@
 # Memory Game
+
+The Memo![responsive](https://user-images.githubusercontent.com/93283135/152126688-4e10808b-85fd-498d-911a-ac7c6de5d88b.PNG)
+
 The Memory Game website is a simple and sleek website that hosts a game playable within the browser.
 
 Memory game is used to display how pure, vanilla Javascript can be used to create a simple but fun card based memory game. I used many javascript concepts such as for loops and if statements to create the majority of the site within javascript exclusively. 
@@ -69,6 +72,15 @@ Function with the largest signature take 2 arguments, while the median is 0.5.
 Largest function has 17 statements in it, while the median is 2.
 
 The most complex function has a cyclomatic complexity value of 5 while the median is 1.
+
+## Fixed Bugs
+
+The most notable bug I encountered when coding this project was that whenever the cards would randomize and flip back down, the player would be able to see a glimpse of the new randomized cards as they were flipping. I was able to fix this bug by using a setTimeout function to delay the restart function by 1 second so the player wouldn't be able to see the new cards as they returned to the unflipped position.
+
+The function used:
+
+![code example](https://user-images.githubusercontent.com/93283135/152127895-b4a2fdf3-09f8-41f9-8b47-2a56813f0f14.PNG)
+
 
 ## Unfixed Bugs
 
