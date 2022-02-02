@@ -95,7 +95,6 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 ## Credits
 
-I used the following sites as sources for images, CSS, HTML and Javascript components.
 
 api.deezer.com:
   - I used Deezers API to find high quality renders of the album covers used.
