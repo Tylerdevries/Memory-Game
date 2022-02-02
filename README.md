@@ -6,6 +6,8 @@ The Memory Game website is a simple and sleek website that hosts a game playable
 
 Memory game is used to display how pure, vanilla Javascript can be used to create a simple but fun card based memory game. I used many javascript concepts such as for loops and if statements to create the majority of the site within javascript exclusively. 
 
+The target audience for this game would be people of all ages. I wish to achieve this through the simplicity of the sites design and function.
+
 ## Features:
 
 ### Heading
@@ -32,12 +34,11 @@ When 2 cards are flipped and are matching. They will remain flipped and no lives
 
 Each set of cards represents a album cover. I chose album covers for the images as I believe they are just generally very noteworthy images and may help with the memory. It also adds a nice look, as I believe I chose very striking album covers.
 
+An extra goal I had for achieving optimal user experience was to create shadows and animations in CSS that would be applied to each card. 
+
 
 ![game area](https://user-images.githubusercontent.com/93283135/152021339-308c8582-c28a-4d0b-a96b-e98550757cd0.PNG)
 
-### Features left to implement
-
-Another feature that could be implemented would be to add a time restraint that began once the game is started/ restarted. 
 
 ## Testing
 
@@ -47,7 +48,7 @@ I confirmed that the project is perfectly responsive and works on all screen siz
 
 I confirmed that all sections are readable and easy to access.
 
-I confirmed that all elements are working, ie. Navbar, buttons and Email Form.
+I confirmed that all elements are working.
 
 ## Validator Testing
 
@@ -77,7 +78,7 @@ The most complex function has a cyclomatic complexity value of 5 while the media
 
 The most notable bug I encountered when coding this project was that whenever the cards would randomize and flip back down, the player would be able to see a glimpse of the new randomized cards as they were flipping. I was able to fix this bug by using a setTimeout function to delay the restart function by 1 second so the player wouldn't be able to see the new cards as they returned to the unflipped position.
 
-The function used:
+An example of a setTimeout function used:
 
 ![code example](https://user-images.githubusercontent.com/93283135/152127895-b4a2fdf3-09f8-41f9-8b47-2a56813f0f14.PNG)
 
@@ -92,6 +93,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The livelink can be found here: https://tylerdevries.github.io/Memory-Game/
 
 ## Credits
 
